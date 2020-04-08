@@ -64,4 +64,4 @@ public class main {
 
 
 # *Please feel free to reach out to me!  
-### I look forward to hearing from you.*
+### I look forward to hearing from you.
