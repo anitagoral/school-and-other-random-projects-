@@ -1,7 +1,7 @@
 # Welcome to My Portfolio!
 
 >All of the work posted on here are examples of work I have done, either for fun or for school. 
->As someone who has been working in the hair industry, I have mastered working with people.  I am confident that I can convince you of my qualifications given the oppertunity for an interview, however I want you to be able to see what I can bring to the table as well.
+>I have been doing hair for over 10 years and have been developing my skills as a hair designer. Recently I have decided to go back to school to pursue my passion for computer technology. I am looking for a position where I can combine my passion for computers with my past work experience. I love the challenge computer programming gives me. It is my passion to look at a problem and solve that issue via technology. As someone who has been working in the hair industry, I have mastered working with people. and have excellent communication and people skills. I am confident that I can convince you of my qualifications given the opportunity for an interview and I look forward to hearing from you! 
 
 >For more examples of my work please view on Github!
 
@@ -64,4 +64,3 @@ public class main {
 
 
 # _Please feel free to reach out to me!_  
-### _I look forward to hearing from you._
